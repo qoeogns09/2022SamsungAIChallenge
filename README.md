@@ -25,3 +25,7 @@ Model for ex.ipynb와 Model for g.ipynb 노트북 파일을 열어서 모든 셀
 두 노트북 파일의 실행이 마무리된 후
 
 Prediction.ipynb 노트북을 열어 모든 셀을 실행하면 submssion.csv 파일이 생성된다.
+
+## Reference
+Zhang, S., Liu, Y., & Xie, L. (2020). Molecular mechanics-driven graph neural network with multiplex graph for molecular structures. arXiv preprint arXiv:2011.07457.
+<https://github.com/zetayue/MXMNet>
