@@ -1,4 +1,5 @@
-# 안녕해요
+# 2022 Samsung AI Challenge (Materials Discovery)
+대회 <https://dacon.io/competitions/official/235953/overview/description>
 
 ## Requirements
 python: 3.7.10
