@@ -11,7 +11,8 @@ data
 ├── mol_files
 │   ├── test_set
 │   └── train_set
-├── sample_submission.csv
+├── train_set.ReorgE.csv
+├── test_set.csv
 └── sample_submission.csv
 ```
 ## How to run
