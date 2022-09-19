@@ -7,6 +7,9 @@ pip install -r requirements.txt
 ```
 Before implement these codes, you should download data. 
 ```
+unzip data.zip
+```
+```
 data
 ├── mol_files
 │   ├── test_set
